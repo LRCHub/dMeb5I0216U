@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "運命のルーレット廻して",
+  "base_artist": "SARD UNDERGROUND",
+  "createdAt": "2026-04-01T05:41:59.341625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_運命のルーレット廻して_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_運命のルーレット廻して_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "La PomPon",
+      "has_synced": true,
+      "path": "select/03_運命のルーレット廻して_La_PomPon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/04_運命のルーレット廻して_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/05_運命のルーレット廻して_ZARD.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/06_運命のルーレット廻して_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "05 - 運命のルーレット廻して 〜www.jpopsingles.eu」",
+      "artist": "zard",
+      "has_synced": true,
+      "path": "select/07_05_-_運命のルーレット廻して_〜www.jpopsingles.eu」_zard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して (Re-mix Version)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/08_運命のルーレット廻して_(Re-mix_Version)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して -Instrumental-",
+      "artist": "La PomPon",
+      "has_synced": true,
+      "path": "select/09_運命のルーレット廻して_-Instrumental-_La_PomPon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "La PomPon",
+      "has_synced": true,
+      "path": "select/10_運命のルーレット廻して_La_PomPon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して（Re-mix Version）",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/11_運命のルーレット廻して(Re-mix_Version)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して(Original Karaoke)",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/12_運命のルーレット廻して(Original_Karaoke)_ZARD.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "ZARD (ザード)",
+      "has_synced": true,
+      "path": "select/13_運命のルーレット廻して_ZARD_(ザード).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "運命のルーレット廻して",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": true,
+      "path": "select/14_運命のルーレット廻して_SARD_UNDERGROUND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "運命のルーレット廻して",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": false,
+      "path": "select/pl_01_運命のルーレット廻して_SARD_UNDERGROUND.txt"
+    }
+  ]
+}
